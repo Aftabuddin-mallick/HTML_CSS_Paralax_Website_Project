@@ -49,13 +49,13 @@ section{
 }
 
 .bg1{
-    background-image: url(images/sport-1.jpg);
+    background-image: url(sport-1.jpg);
 }
 .bg2{
-    background-image: url(images/sport-2.jpg);
+    background-image: url(sport-2.jpg);
 }
 .bg3{
-    background-image: url(images/sport-3.jpg);
+    background-image: url(sport-3.jpg);
 }
 .secHeading{
     font-size: 5rem;
@@ -85,3 +85,4 @@ section{
     font-size: 3.5rem;
     font-weight:600;
 }
+
