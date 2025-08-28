@@ -1,5 +1,4 @@
 # HTML_CSS_Paralax_Website_Project
-
 Parallax Website
 
 This is a simple website project that demonstrates a parallax scrolling effect using HTML and CSS.
